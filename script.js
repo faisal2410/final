@@ -121,6 +121,8 @@ const isFullAge = ageSarah >= 18;
 // console.log(isFullAge);
 
 console.log(now - 1991 > now - 2018);
+console.log(now - 1991 > now - 2018);
+
 
 ////////////////////////////////////
 // Operator Precedence
